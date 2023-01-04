@@ -1,0 +1,2 @@
+# automan
+you'll see ;)
