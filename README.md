@@ -2,7 +2,7 @@
 this one's just a random project of mine, had a thought one day, so here we are
 
 ## status
-I've got to do some learning before diving into it, so currently on hold
+I've got to do some learning before diving into it, so currently on hold\
 Think this would be cool as a test project for when I learn Rust
 
 ## to implement
