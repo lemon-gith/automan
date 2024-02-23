@@ -3,7 +3,8 @@ this one's just a random project of mine, had a thought one day, so here we are
 
 ## status
 I've got to do some learning before diving into it, so currently on hold\
-Think this would be cool as a test project for when I learn Rust
+Think this would be cool as a test project for when I learn Rust\
+ |- this should be a simpler Rust program than the compiler :p
 
 ## to implement
 - web API - for dictionary and possibly safety checks
